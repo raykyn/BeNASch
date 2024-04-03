@@ -5,7 +5,7 @@ Das aktuelle Schema ist einsehbar unter https://dhbern.github.io/BeNASch/. Diese
 
 Ein Projekt zur einheitlichen Annotation von Frühneuhochdeutschen Texten der Digital Humanities der Universität Bern und des Departement Geschichte der Universität Basel.
 
-Schema: https://docs.google.com/document/d/1DaxhG4Kvq5hjAUzLtqXCze3FGvIbQuqigo8alIklkW0/edit?usp=sharing
+Schema: <veraltet>
 
 Anleitung: https://docs.google.com/document/d/1EL__O2yvNSZROLAoKgpeucuP032SEG1BDlfEx_mS_Sc/edit?usp=sharing
 
